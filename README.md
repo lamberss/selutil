@@ -1,5 +1,7 @@
 # selutil
 
+[![Run Tests](https://github.com/lamberss/selutil/actions/workflows/tests.yml/badge.svg)](https://github.com/lamberss/selutil/actions/workflows/tests.yml)
+
 [![PyPI - Version](https://img.shields.io/pypi/v/selutil.svg)](https://pypi.org/project/selutil)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/selutil.svg)](https://pypi.org/project/selutil)
 
